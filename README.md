@@ -1,4 +1,4 @@
-# Final Project
+# FP - UofM Data Analystics Project
 
 ### Overview of  activities
 * Dataset : Project 2 (Peer 2 Peer Loans Data)
