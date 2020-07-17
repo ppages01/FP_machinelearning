@@ -1,4 +1,4 @@
-# Final Project
+# FP - UofM Data Analytics Project
 
 ### Overview of  activities
 * Dataset : Project 2 (Peer 2 Peer Loans Data)
@@ -14,4 +14,6 @@
 4.  Visual COnfustion Matrix to analyze results
 
 5.  Tuning used: XGBoost, Cross Validation (KFold Stratified)
+
+6.  Powerpoint
 
