@@ -11,7 +11,7 @@
 
 3.  Models used (Logistic, Decision Tree, Random Forrest, XGBoost)
 
-4.  Visual COnfustion Matrix to analyze results
+4.  Visual Confusion Matrix to analyze results
 
 5.  Tuning used: XGBoost, Cross Validation (KFold Stratified)
 
