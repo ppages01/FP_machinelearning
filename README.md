@@ -1,4 +1,9 @@
-# FP - UofM Data Analytics Project
+
+# Final Project
+## Note: Notebook is quite large.
+
+Various models run and some take a few minutes.
+
 
 ### Overview of  activities
 * Dataset : Project 2 (Peer 2 Peer Loans Data)
@@ -11,9 +16,7 @@
 
 3.  Models used (Logistic, Decision Tree, Random Forrest, XGBoost)
 
-4.  Visual COnfustion Matrix to analyze results
+4.  Visual Confusion Matrix to analyze results
 
 5.  Tuning used: XGBoost, Cross Validation (KFold Stratified)
-
-6.  Powerpoint
 
