@@ -1,8 +1,12 @@
 
 # Final Project
-## Note: Notebook is quite large.
+## Note: final.iypng is quite large.
+## Various models run and some take a few minutes.
 
-Various models run and some take a few minutes.
+Better performance with streamlined notebooks
+mlver2
+and 
+loan_forcasting
 
 
 ### Overview of  activities
