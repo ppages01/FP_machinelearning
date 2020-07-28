@@ -1,5 +1,4 @@
 
-# Final Project
 ## Note: final.iypng is quite large.
 ## Various models run and some take a few minutes.
 
